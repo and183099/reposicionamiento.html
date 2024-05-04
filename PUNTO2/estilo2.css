@@ -1,0 +1,29 @@
+#divPadre {
+    position: relative;
+    right: -220px;
+    width: 900px;
+    height: 800px;
+    background-color: lightgray;
+}
+.caja {
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    padding: 30px;
+    position: relative;
+}
+#div1 {
+    background-color:cadetblue;
+    right: -210px;
+    top: 100px;
+}
+#div2 {
+    background-color:mediumpurple;
+    left: -10px;
+    top: -50px;
+}
+#div3 {
+    background-color:peachpuff;
+    right: -430px;
+    bottom: 450px;
+}
